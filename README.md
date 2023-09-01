@@ -1,1 +1,1 @@
-> Repositório para armazenar projetos da formação de PHP orientado a objetos
+> Repositório para armazenar projetos da formação em PHP orientado a objetos
